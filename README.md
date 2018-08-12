@@ -26,7 +26,7 @@ FEATURES:
 - random spawning for the meaty rings (no repetitive patterns)
 
 THANKS:
-- ToChars by Crait. Tinyfont by Boti Kis. Squiddy by Aphrodite. Arduboy by Kevin Bateske.
+- ToChars by Crait. Tinyfont by Boti Kis. Squiddy by Aphrodite. Arduboy by Kevin Bates.
 
 IN A REAL NEAR FUTURE…
 - a true port on Gamebuino Meta
