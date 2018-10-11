@@ -37,6 +37,6 @@ IN A REAL NEAR FUTURE…
 
 Juice Lizard is a french artist who has also made « The guy who never complains » and « Cutie E » on Arduboy and « Frame Perfect » on Kitco. You can see his paintings and drawings on www.juicelizard.canalblog.com
 
-LICENCE:
+LICENSE:
 
 This game is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
