@@ -398,7 +398,9 @@ void drawNumber(int, int, int);
 void setup() {
   arduboy.begin();
   arduboy.setFrameRate(60);
-  arduboy.audio.on();
+//  arduboy.audio.on();
+//  To have sound: hold B when turning ON the Arduboy, press UP, then release B.
+//  To mute sound: hold B when turning ON the Arduboy, press DOWN, then release B.
 }
 
 void loop() {
